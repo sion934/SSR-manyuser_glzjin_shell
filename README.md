@@ -7,9 +7,9 @@
 * 请注意：4.0版本未经过严格的测试，若出现问题请及时提交 issue ，本人将会对相关内容进行排查，感谢理解
 * 由于零散更新，内容上出现部分代码冗余，会在未来进行部分代码重构
 
-# 安装方法 （ 2017/12/21 更新）
+# 安装方法 （ 2019/02/02 更新）
 ```
-git clone whres-manyuser_shell.git SSR
+git clone https://github.com/sion934/whres-manyuser_shell.git SSR
 
 cd SSR
 ```
