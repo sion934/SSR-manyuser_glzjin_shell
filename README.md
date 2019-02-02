@@ -19,7 +19,7 @@ cd SSR
 ```
 chmod +x shadowsocks_new.sh
 
-./shadowsocks_new.sh install | tee ss.log
+./shadowsocks_whres.sh install | tee ss.log
 
 chmod +x /root/shadowsocks/*.sh
 ```
